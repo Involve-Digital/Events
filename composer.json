@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/events",
+	"name": "involve-digital/events",
 	"type": "library",
 	"description": "Events for Nette Framework",
 	"keywords": ["nette", "kdyby"],
